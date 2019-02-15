@@ -1,0 +1,22 @@
+{
+  "name": "node-crash",
+  "version": "1.0.0",
+  "description": "Nodejs crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "crash",
+    "course"
+  ],
+  "author": "Jay Kiharani",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
