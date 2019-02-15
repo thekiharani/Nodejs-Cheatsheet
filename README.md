@@ -3,5 +3,5 @@
 ## Quick Start
 - Clone the repo
 - Run `npm install` 
-- Open the folder in terminal and run any of the js scripts; eg: node `reference/fs_demo`
+- Open the folder in terminal and run any of the js scripts; eg: `node reference/fs_demo`
 - Have fun!
